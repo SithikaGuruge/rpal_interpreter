@@ -1,0 +1,4 @@
+let sign number = number gr 0 -> 
+    'Positive' | 
+    'Negative' 
+in print(sign (-16))
